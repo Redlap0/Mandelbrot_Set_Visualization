@@ -8,4 +8,4 @@ formula is: zn+1 = zn2 + c (n+1 is subscript of z and so is n^2 for the second z
 
 this is what your output will look like.
 
-# Pre-requisites for this project is that you should have numpy and matplotlib.pyplot downloaded in your system which if not, you can easily download by going to cmd and using the 'pip install' command.
+*Pre-requisites* for this project is that you should have numpy and matplotlib.pyplot downloaded in your system which if not, you can easily download by going to cmd and using the 'pip install' command.
