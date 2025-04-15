@@ -1,2 +1,2 @@
 # Mandelbrot Visualization
-Visualizing Mandelbrot in python using #Matplotlib.pyplot
+Visualizing Mandelbrot in python using Matplotlib.pyplot
