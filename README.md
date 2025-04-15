@@ -1,5 +1,5 @@
 # Mandelbrot Set Visualization
-Visualizing Mandelbrot in python using Matplotlib.pyplot
+Visualizing Mandelbrot in python using Matplotlib.pyplot and numpy
 
 
 Mandelbrot set is a really amazing mathematical fractal, it just iterates a quadratic equation on a complex plane. It's
