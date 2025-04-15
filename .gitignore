@@ -34,6 +34,6 @@ mandelbrot_image = mandelbrot_set(xmin, xmax, ymin, ymax, width, hieght, max_ite
 plt.imshow(mandelbrot_image, extent=[xmin, xmax, ymin, ymax], cmap='inferno') #you can use other color schemes like, viridis, hot, plasma, cividis and jet
 plt.colorbar()
 plt.title("mandelbrot visualization")
-plt.xlabel('Re(c)')
-plt.ylabel('Im(c)')
+plt.xlabel('Real')
+plt.ylabel('Imaginary')
 plt.show()
