@@ -1,4 +1,4 @@
-# Mandelbrot Set Visualization
+# Mandelbrot Set Visualizer
 Visualizing Mandelbrot in python using Matplotlib.pyplot and numpy
 
 
